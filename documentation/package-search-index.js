@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.pombimsjb.dio.gof"},{"l":"com.pombimsjb.dio.gof.facade"},{"l":"com.pombimsjb.dio.gof.singleton"},{"l":"com.pombimsjb.dio.gof.strategy"},{"l":"com.pombimsjb.dio.gof.subsistema1.crm"},{"l":"com.pombimsjb.dio.gof.subsistema2.cep"}];updateSearchResults();
